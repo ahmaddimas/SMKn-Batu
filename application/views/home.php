@@ -272,7 +272,7 @@
   <div class="container">
     <div class="row">
       <div class="col-md-12 text-center wow fadeInDown">
-      <h2 class="heading heading_space">What People say <span class="divider-center"></span></h2>
+      <h2 class="heading heading_space">Testimonial <span class="divider-center"></span></h2>
       <div id="review_slider" class="owl-carousel text-center">
         <div class="item">
           <h4>John Smith</h4>

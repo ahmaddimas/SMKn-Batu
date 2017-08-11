@@ -17,7 +17,7 @@
 <link rel="stylesheet" type="text/css" href="<?= base_url(); ?>assets/css/style.css">
 <link rel="stylesheet" type="text/css" href="<?= base_url(); ?>assets/css/loader.css">
 
-<link rel="icon" href="<?= base_url(); ?>assets/images/logosekolah.png">
+<link rel="icon" href="<?= base_url(); ?>assets/images/logo.png">
 
 <!--[if lt IE 9]>
   <script src="https://oss.maxcdn.com/html5shiv/3.7.2/html5shiv.min.js"></script>
@@ -43,8 +43,8 @@
         <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#navbar-menu">
           <i class="fa fa-bars"></i>
         </button>
-        <a class="navbar-brand" href="<?= base_url(); ?>"><img src="<?= base_url(); ?>assets/images/logosekolah.png" alt="logo" class="logo logo-display">
-        <img src="<?= base_url(); ?>assets/images/logosekolah.png" class="logo logo-scrolled" alt="">
+        <a class="navbar-brand" href="<?= base_url(); ?>"><img src="<?= base_url(); ?>assets/images/logo.png" alt="logo" class="logo logo-display">
+        <img src="<?= base_url(); ?>assets/images/logo.png" class="logo logo-scrolled" alt="">
         </a>
       </div>
       <div class="collapse navbar-collapse" id="navbar-menu">
